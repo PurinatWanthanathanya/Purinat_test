@@ -1,1 +1,0 @@
-# Purinat_test

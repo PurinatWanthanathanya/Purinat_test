@@ -3,7 +3,7 @@ error raiwa
 # Purinat_test
 ...
 
-banana potato tomato
+git
 
 
 HELLOWORLD
